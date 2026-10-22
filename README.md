@@ -1,4 +1,4 @@
-# ⚡ DevCrew AI — Intelligent Multi-Agent Engineering Studio
+# ⚡DevCrew AI — Intelligent Multi-Agent Engineering Studio
 
 ### 🤖 Transform Software Ideas into Development Plans, Starter Code, Code Reviews & QA Strategies
 
@@ -74,6 +74,8 @@ DevCrew AI uses four specialized AI agents to support different stages of softwa
 | 🔑 Python dotenv | Loading environment variables |
 | 🎨 HTML and CSS | Custom RGB neon interface |
 | 🕒 Python datetime and time | Timestamps and retry delays |
+
+![ml](https://github.com/rushikeshwalode06-cod/DevCrew-AI-Multi-Agent-Software-Development-Team/blob/main/Devcrew_graph.png?raw=true)
 
 ## 📊 Dashboard Modules
 
