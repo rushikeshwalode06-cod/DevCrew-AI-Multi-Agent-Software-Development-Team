@@ -151,4 +151,4 @@ DevCrew AI combines CrewAI, Google Gemini, and Streamlit to create an interactiv
 - 🧪 Supports test planning and release preparation.
 - 🎨 Provides a modern RGB neon dashboard experience.
 
-mlit**
+![ml](https://github.com/rushikeshwalode06-cod/DevCrew-AI-Multi-Agent-Software-Development-Team/blob/main/devcrew.png?raw=true)
