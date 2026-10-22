@@ -1,4 +1,4 @@
-# ⚡DevCrew AI — Intelligent Multi-Agent Engineering Studio
+# ⚡DevCrew AI — Multi-Agent Software Development Team
 
 ### 🤖 Transform Software Ideas into Development Plans, Starter Code, Code Reviews & QA Strategies
 
